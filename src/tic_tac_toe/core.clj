@@ -117,11 +117,3 @@ starting-board
         (rest player-sequence)))))
 
 (play-game)
-
-
-
-
-
-
-
-()
